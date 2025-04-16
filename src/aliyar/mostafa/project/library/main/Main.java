@@ -10,7 +10,7 @@ public class Main {
     private static final String msgNameCustomer ="لطفا نام کاربر را وارد کنید!";
     private static final String msgAgeCustomer ="لطفا سن کاربر را ارد کنید!";
     private static final String msgGenderCustomer="لطفا جنسیت کاربر را مشخص کنید M  به معنی مرد و F به معنی زن میباشد.";
-    private static final String msgKeyCustomer="لطفا کد کتابخانه کاربر را وارد کنید!(از ده شروع میشود)";
+//    private static final String msgKeyCustomer="لطفا کد کتابخانه کاربر را وارد کنید!(از ده شروع میشود)";
     private static final String msgLine="==========================================================================";
     private static final String msgNameBook = "لطفا نام کتاب را وارد کنید!";
     private static final String msgPagesBook = "لطفا تعداد صفحه های کتاب را مشخص کنید!";
